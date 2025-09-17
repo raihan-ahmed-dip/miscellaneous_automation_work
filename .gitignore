@@ -210,4 +210,6 @@ __marimo__/
 
 
 # Local Files
-ResortExtractorFromHTML/resort.html
+ResortExtractorFromHTML/resorts.html
+ResortExtractorFromHTML/resorts.csv
+
